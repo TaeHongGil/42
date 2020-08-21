@@ -1,0 +1,8 @@
+Credentials cache: API:386012DA-7E40-4C55-948A-069FE50C4B0A
+        Principal: tgil@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul 29 12:21:43 2020  Jul 29 22:21:43 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
+Jul 29 12:21:44 2020  Jul 29 22:21:43 2020  HTTP/student-storage.42seoul.kr@42SEOUL.KR
+
+

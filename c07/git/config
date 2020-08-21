@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "o"]
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-c6cb3ccf-9dd8-4963-891e-48cb453e0165-3283364
+	fetch = +refs/heads/*:refs/remotes/o/*

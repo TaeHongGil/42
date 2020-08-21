@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "shell00"]
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-1170c740-a41d-425c-aaeb-a43d403703b2-3251974
+	fetch = +refs/heads/*:refs/remotes/shell00/*

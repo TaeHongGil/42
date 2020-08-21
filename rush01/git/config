@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-e97de5c4-71f7-419b-88e3-8a3a281e6eec-3261464
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "o"]
+	url = git@vogsphere.42seoul.kr:vogsphere/intra-uuid-e97de5c4-71f7-419b-88e3-8a3a281e6eec-3261464
+	fetch = +refs/heads/*:refs/remotes/o/*
